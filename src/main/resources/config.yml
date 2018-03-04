@@ -1,0 +1,9 @@
+messages:
+  not-player: "&cOnly players are able to use this command."
+  no-permission: "&cYou do not have right permission to use this command."
+  weather-locked: "&aWeather in this world is now locked."
+  weather-unlocked: "&cWeather in this world is no longer locked."
+  configuration-reloaded: "&aConfiguration has been reloaded."
+  locked-worlds-header: "&eLocked Worlds:"
+  locked-worlds-value: "&a- {{world}}"
+locked-worlds: []
