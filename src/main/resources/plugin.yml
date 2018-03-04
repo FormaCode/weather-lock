@@ -9,4 +9,4 @@ website: ${project.url}
 commands:
   lockweather:
     aliases: [weatherlock]
-    description: Allows to reload config, lock, and unlock weather in the sender's world
+    description: Allows to see locked worlds, reload config and lock and unlock the weather in the sender's world
